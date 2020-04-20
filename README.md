@@ -1,5 +1,5 @@
-OZcoin
-======
+# OZcoin
+========
 
 Pretty Good Money.
 
